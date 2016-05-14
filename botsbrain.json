@@ -1,0 +1,18 @@
+{
+    "langs":[
+        {"name":"Stupid bot from Infy",
+         "signs":[
+            "i'm new to Infy",
+            "i am new to Infosys",
+            "i want to join Infosys",
+            "i want to work at Infosys",
+            "how can i apply for Expert Track Programme",
+            "how can i contact HRs",
+            "can someone help me"
+         ],
+         "out": ["Hi! Why dont you check www.infosys.com"]
+        },
+        
+    ]
+}
+        
