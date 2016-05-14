@@ -5,11 +5,11 @@ import json
 
 from fuzzywuzzy import fuzz
 
-//load incoming data
+#load incoming data
 data = {'their_data': []}
 
 
-//load bots brain
+#load bots brain
 brain = {'langs': []}
 
 MINIMUM_SCORE = 100  
